@@ -12,6 +12,7 @@ I have decided to only include the scripts, scenes, prefabs, and sprite director
   
 ### Sprite
 - Contains the images used for the buttons.
+- Contains the animator and animations for the child interaction indicator.
 
 ### Full Application
 - Can be downloaded on google drive, https://drive.google.com/drive/folders/11nEgAXzOSDvtUsa663owYKps8jkhEGLS?usp=sharing
