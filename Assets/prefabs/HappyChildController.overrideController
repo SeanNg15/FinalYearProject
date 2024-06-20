@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HappyChildController
+  m_Controller: {fileID: 9100000, guid: 23b356418f575aa4a8b846f4925aac80, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: e4ff4f72a087f484aaa8eb5628338844,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: b18228ececefa1546aafc9f217a4bf2a,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 6bf404c60d2da9d4cae861fb3b8adb26,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 6bf404c60d2da9d4cae861fb3b8adb26,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: b89bbe698460b374ea8c94b9814c26b6,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 6bf404c60d2da9d4cae861fb3b8adb26,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: e0c32ea2775203343a99df1f6e99e941,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: e0c32ea2775203343a99df1f6e99e941,
+      type: 3}
