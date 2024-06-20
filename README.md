@@ -13,4 +13,7 @@ I have decided to only include the scripts, scenes, prefabs, and sprite director
 ### Sprite
 - Contains the images used for the buttons.
 
-
+### Full Application
+- Can be downloaded on google drive, https://drive.google.com/drive/folders/11nEgAXzOSDvtUsa663owYKps8jkhEGLS?usp=sharing
+- Once downloaded unzip the folder and run the FinalYearProject executable.
+- Windows might give a warning for potential risks (this is because the application has no publisher to it)
