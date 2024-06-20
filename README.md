@@ -5,7 +5,7 @@ I have decided to only include the scripts, scenes, prefabs, and sprite director
 - In the GeneratedToy.cs file, the api key is removed for privacy reasons.
 
 ### Scenes
-- Contains the save file for each level/environment for the application.
+- Contains the unity scene file for each level/environment for the application.
   
 ### Prefabs
 - Contains the animator, assets and models configured to be used in the application.
